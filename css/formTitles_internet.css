@@ -1,0 +1,82 @@
+		
+input {
+	padding: 5px;
+	border: 5px solid #e0e0e0; 
+	-webkit-border-radius: 20px;
+	-moz-border-radius: 20px;
+	border-radius: 20px;
+	margin-top: 1%;
+	margin-bottom: 1%;
+}
+
+input:focus {
+border-top-color:#0000CC;
+border-right-color:#0000CC;
+border-bottom-color:#000099;
+border-left-color:#0000CC;
+
+
+outline:none;
+	
+}
+#button
+{ 
+
+margin-top:5px;
+border:solid;
+border-color: #666666;
+}
+.scBtn {
+  background            : #000000;
+  color:#ffffff ;
+  margin                : 0;
+  padding               : 3px 7px 3px 8px;
+  text-align            : center;
+  border                : 1px solid #5A5655;    
+  text-decoration       : none; 
+  -moz-border-radius    : 5px;
+  -webkit-border-radius : 5px;    
+}
+.scBtn:hover{
+  background      : #EA8511;
+  color           : #FFFFFF;
+  border          : 1px solid #EA8511; 
+  text-decoration : none; 
+}
+
+
+
+#container {
+	text-align: left;
+	width: 700px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.separator {
+	border-bottom: 1px dashed #ccc;
+	margin-bottom: 3em;
+}
+
+.title {
+	font-size: 30px;
+	font-weight: bold;
+	font-style: italic;
+	text-shadow: 0px 2px 0px #fff;
+}
+
+.small-title {
+	font-size: 20px;
+	margin-bottom: .5em;
+	font-weight: bold;
+	font-style: italic;
+	text-shadow: 0px 5px 0px #fff;
+}
+
+.username-label, .password-label, .regno-label, .forgot-label, .mob-label, .pass2-label, .email-label, .name1-label,
+.username-label-sliding, .password-label-sliding {
+	padding: 60px ;
+	position: absolute;
+	margin: -47px -5px 0px 12px;
+}
+

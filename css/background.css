@@ -1,0 +1,31 @@
+html	
+{
+	background: url('../images/bottomPanel1.jpg') repeat-x bottom;
+}
+	
+body	
+{
+	background-image: url(../images/topPanel1.jpg);
+	background-repeat: repeat-x;
+}
+* 
+{
+	margin:0;
+	padding:0;
+}
+
+#saddler {
+	margin-bottom:0px;
+	margin-right:0px;
+	margin-top:15px;
+	margin-left:35px;
+	border:ridge;
+	border-width:4px;
+	border-color:#ffffff;
+	-moz-border-radius:4px;
+	-khtml-border-radius:4px;
+	-webkit-border-radius:4px;
+
+}
+	
+
